@@ -7,10 +7,22 @@
     src: url(font/blue-vinyl_my-scars-/MYSCARS_.TTF);
 }
 p.cor{
-  color: red;
+  color:  	#400000  ;
   font: arial;
+  text-align: justify;
+  text-indent: 10px;
 
 
+}
+p{
+  color:  	#400000  ;
+  font: arial;
+  text-align: justify;
+  text-indent: 10px;
+
+}
+em.op{
+  opacity: 0.35;
 }
 img {
 
@@ -21,9 +33,15 @@ img {
 }
 h1{
   font-family: RainydayVandal;
+  text-align: center;
+  font-size: 40pt;
+  color: #600000  ;
 }
 h2{
+  color: #600000  ;
+  padding-left:15;
   font-family: NTL;
+  font-size: 25pt;
 }
 iframe{
 
@@ -36,8 +54,43 @@ margin-right: auto;
 
 #log{
 width:  200px;
- display: block;
- margin-left: auto;
-  margin-right: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
 
+}
+body{
+  padding-left:5;
+  font-style: normal;
+  font-family:cursive;;
+  background-image: url(img/nome-da-imagem.png)
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-color:  	FF9966 ;
+}
+ a:link{
+   color:blue;
+   text-decoration: none;
+   background-image: url(img/globo.png);
+   background-repeat: no-repeat;
+   padding-left: 25;
+
+}
+a:visited{
+  color:#580000 ;
+  text-decoration: underline;
+}
+a:hover{
+  color:green;
+  text-decoration: none;
+
+}
+a:active{
+  color: 	none;
+  text-decoration:none;
+}
+strong{
+  font-size: 27px;
+  background-color: #FF9995;
+  padding-left:  15px;
 }
