@@ -1,0 +1,43 @@
+@font-face {
+    font-family: RainydayVandal;
+    src: url(font/kc-fonts_rainy-day-vandal/Rainy_Day_VandalDEMO.otf);
+}
+@font-face {
+    font-family: NTL;
+    src: url(font/blue-vinyl_my-scars-/MYSCARS_.TTF);
+}
+p.cor{
+  color: red;
+  font: arial;
+
+
+}
+img {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+h1{
+  font-family: RainydayVandal;
+}
+h2{
+  font-family: NTL;
+}
+iframe{
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+#log{
+width:  200px;
+ display: block;
+ margin-left: auto;
+  margin-right: auto;
+
+}
